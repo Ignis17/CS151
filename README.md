@@ -1,1 +1,6 @@
-# CS151
+# CS151 (Introduction to Computing)- Medgar Evers College (Spring 2017)
+##  Course Description:
+*_This course introduces the fundamental concepts of the discipline of computing, emphasizing elementary facts concerning computer architecture, programming languages, software methodology, and algorithms.  Students learn how to solve problems using an appropriate block-structure high-level programming language.  Programming topics include:  basic data structures, control structures, data and procedure abstractions, functions and function parameters, recursion, and pointers._*
+### Included Here:
+- Labs
+- Assignments
