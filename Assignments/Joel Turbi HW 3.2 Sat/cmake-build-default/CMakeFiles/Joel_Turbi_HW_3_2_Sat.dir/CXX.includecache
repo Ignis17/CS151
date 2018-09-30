@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ignis17/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/main.cpp
+iostream
+-
+cmath
+-
+iomanip
+-
+

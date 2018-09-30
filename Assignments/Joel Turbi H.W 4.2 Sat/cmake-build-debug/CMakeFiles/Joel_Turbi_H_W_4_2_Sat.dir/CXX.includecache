@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/a4f4ddd4-f33b-46be-ba38-267139024f41/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi H.W 4.2 Sat/main.cpp
+iostream
+-
+iomanip
+-
+

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/joelt/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi H.W 5.1 Sat/main.cpp
+iostream
+-
+iomanip
+-
+

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Joel_Turbi_HW_3_2_Sat"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Win-Builds/bin/mingw32-make.exe -f &quot;D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Win-Builds/bin/mingw32-make.exe -f &quot;D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Win-Builds/bin/mingw32-make.exe -f &quot;D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Win-Builds/bin/mingw32-make.exe -f &quot;D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Joel_Turbi_HW_3_2_Sat">
+				<Option output="D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug/Joel_Turbi_HW_3_2_Sat.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Win-Builds/include"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Win-Builds/bin/mingw32-make.exe -f &quot;D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 Joel_Turbi_HW_3_2_Sat"/>
+					<CompileFile command="C:/Win-Builds/bin/mingw32-make.exe -f &quot;D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Win-Builds/bin/mingw32-make.exe -f &quot;D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Win-Builds/bin/mingw32-make.exe -f &quot;D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Joel_Turbi_HW_3_2_Sat/fast">
+				<Option output="D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug/Joel_Turbi_HW_3_2_Sat.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Win-Builds/include"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Win-Builds/bin/mingw32-make.exe -f &quot;D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 Joel_Turbi_HW_3_2_Sat/fast"/>
+					<CompileFile command="C:/Win-Builds/bin/mingw32-make.exe -f &quot;D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Win-Builds/bin/mingw32-make.exe -f &quot;D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Win-Builds/bin/mingw32-make.exe -f &quot;D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Win-Builds/bin/mingw32-make.exe -f &quot;D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Win-Builds/bin/mingw32-make.exe -f &quot;D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Win-Builds/bin/mingw32-make.exe -f &quot;D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Win-Builds/bin/mingw32-make.exe -f &quot;D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Win-Builds/bin/mingw32-make.exe -f &quot;D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Win-Builds/bin/mingw32-make.exe -f &quot;D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Win-Builds/bin/mingw32-make.exe -f &quot;D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Win-Builds/bin/mingw32-make.exe -f &quot;D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/main.cpp">
+			<Option target="Joel_Turbi_HW_3_2_Sat"/>
+		</Unit>
+		<Unit filename="D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi HW 3.2 Sat/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

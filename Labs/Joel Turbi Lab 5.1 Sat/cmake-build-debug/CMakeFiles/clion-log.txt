@@ -1,0 +1,4 @@
+"C:\Program Files (x86)\JetBrains\CLion 2017.1\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\Dropbox\Notes\Spring 2017\CS 151\CS 151 Labs\Joel Turbi Lab 5.1 Sat"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Dropbox/Notes/Spring 2017/CS 151/CS 151 Labs/Joel Turbi Lab 5.1 Sat/cmake-build-debug

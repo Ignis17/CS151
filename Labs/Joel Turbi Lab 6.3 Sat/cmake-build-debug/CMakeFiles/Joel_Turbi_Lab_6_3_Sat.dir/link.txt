@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Joel_Turbi_Lab_6_3_Sat.dir/main.cpp.o  -o Joel_Turbi_Lab_6_3_Sat 
